@@ -7,3 +7,5 @@
 print('Hello World!')
 print('Hello ')
 print('Hello ')
+
+print(str(10))
