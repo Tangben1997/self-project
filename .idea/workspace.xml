@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eeeb4b1-f815-44d0-81a7-9c64183e94fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python-studying/web crawler/requests/requests_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/xpath_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/图片素材提取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/快代理html页面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-studying/python socket/bs4/beautifulsoup4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-studying/web crawler/Re/Re_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-studying/hello-world.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-studying/hello-world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-studying/web crawler/requests/requests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-studying/web crawler/urllib/lambda学习.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-studying/web crawler/urllib/lambda学习.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/快代理免费IP.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/快代理免费IP.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,58 +18,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-studying/web crawler/Re/Re_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/快代理免费IP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/FreeIPtest.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/FreeIP.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3000">
-              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/图片素材提取.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/1.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/ip-proxy.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="652" selection-end-line="652" />
             </state>
           </provider>
         </entry>
@@ -129,13 +92,17 @@
         <option value="$PROJECT_DIR$/python-studying/hello-world.py" />
         <option value="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/图片素材提取.py" />
         <option value="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/FreeIP" />
+        <option value="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/ceshiyong.py" />
+        <option value="$PROJECT_DIR$/python-studying/beautifulsoup4.py" />
+        <option value="$PROJECT_DIR$/python-studying/bs4/beautifulsoup4.py" />
+        <option value="$PROJECT_DIR$/python-studying/web crawler/Re/Re_1.py" />
         <option value="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/快代理免费IP.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2078" />
-    <option name="y" value="32" />
+    <option name="x" value="2028" />
+    <option name="y" value="43" />
     <option name="width" value="1440" />
     <option name="height" value="720" />
   </component>
@@ -160,12 +127,6 @@
               <item name="self-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="self-project" type="462c0819:PsiDirectoryNode" />
               <item name="python-studying" type="462c0819:PsiDirectoryNode" />
-              <item name="python socket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="self-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="self-project" type="462c0819:PsiDirectoryNode" />
-              <item name="python-studying" type="462c0819:PsiDirectoryNode" />
               <item name="web crawler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -173,14 +134,7 @@
               <item name="self-project" type="462c0819:PsiDirectoryNode" />
               <item name="python-studying" type="462c0819:PsiDirectoryNode" />
               <item name="web crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="requests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="self-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="self-project" type="462c0819:PsiDirectoryNode" />
-              <item name="python-studying" type="462c0819:PsiDirectoryNode" />
-              <item name="web crawler" type="462c0819:PsiDirectoryNode" />
-              <item name="urllib" type="462c0819:PsiDirectoryNode" />
+              <item name="Re" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="self-project" type="b2602c69:ProjectViewProjectNode" />
@@ -203,16 +157,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python-studying/web crawler/requests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python-studying/python socket" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python-studying/python socket" />
+      <recent name="$PROJECT_DIR$/python-studying/bs4" />
       <recent name="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml" />
       <recent name="$PROJECT_DIR$/python-studying/web crawler/requests" />
       <recent name="$PROJECT_DIR$/python-studying/web crawler/urllib" />
-      <recent name="$PROJECT_DIR$/python-studying/web crawler" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -227,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.快代理免费IP">
+  <component name="RunManager" selected="Python.Re_1">
     <configuration name="图片素材提取" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="self-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,6 +227,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Re_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="self-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-studying/web crawler/Re" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-studying/web crawler/Re/Re_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="beautifulsoup4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="self-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-studying/bs4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-studying/bs4/beautifulsoup4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ceshiyong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="self-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/ceshiyong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hello-world" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="self-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,79 +315,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kuaidaili" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="self-project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-studying/web crawler/requests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/快代理html页面.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="request2_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="self-project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-studying/web crawler/requests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-studying/web crawler/requests/request2_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="xpath_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="self-project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/xpath_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Re_1" />
+        <item itemvalue="Python.beautifulsoup4" />
+        <item itemvalue="Python.ceshiyong" />
         <item itemvalue="Python.图片素材提取" />
         <item itemvalue="Python.hello-world" />
-        <item itemvalue="Python.xpath_1" />
-        <item itemvalue="Python.kuaidaili" />
-        <item itemvalue="Python.request2_2" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +360,13 @@
       <workItem from="1563952862754" duration="1759000" />
       <workItem from="1563954803066" duration="606000" />
       <workItem from="1563955419789" duration="6309000" />
-      <workItem from="1564016743236" duration="9042000" />
+      <workItem from="1564016743236" duration="10034000" />
+      <workItem from="1564058870494" duration="708000" />
+      <workItem from="1564104766022" duration="599000" />
+      <workItem from="1564126509893" duration="2640000" />
+      <workItem from="1564190116651" duration="1990000" />
+      <workItem from="1564362228726" duration="6101000" />
+      <workItem from="1564449537520" duration="3961000" />
     </task>
     <task id="LOCAL-00001" summary="试验下">
       <created>1561539571270</created>
@@ -449,22 +410,29 @@
       <option name="project" value="LOCAL" />
       <updated>1563967385224</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="能保存文件啦">
+      <created>1564047452391</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564047452391</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61194000" />
+    <option name="totallyTimeSpent" value="78185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1600" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49774775" visible="true" weight="0.44695988" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49774775" visible="true" weight="0.49676585" />
       <window_info id="Structure" order="1" sideWeight="0.5022523" side_tool="true" weight="0.2535316" />
       <window_info id="Favorites" order="2" sideWeight="0.5022523" side_tool="true" weight="0.2535316" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891247" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19363396" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32752612" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23740053" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.397878" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -502,7 +470,8 @@
     <MESSAGE value="first studying" />
     <MESSAGE value="learnning。。。。" />
     <MESSAGE value="第一个有点用的爬虫脚本" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一个有点用的爬虫脚本" />
+    <MESSAGE value="能保存文件啦" />
+    <option name="LAST_COMMIT_MESSAGE" value="能保存文件啦" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -527,12 +496,15 @@
     <SUITE FILE_PATH="coverage/self_project$client2.coverage" NAME="client2 Coverage Results" MODIFIED="1563176668195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/python socket" />
     <SUITE FILE_PATH="coverage/self_project$cookie.coverage" NAME="cookie Coverage Results" MODIFIED="1563519819405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler" />
     <SUITE FILE_PATH="coverage/self_project$.coverage" NAME="图片素材提取 Coverage Results" MODIFIED="1564022666904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml" />
+    <SUITE FILE_PATH="coverage/self_project$Re_1.coverage" NAME="Re_1 Coverage Results" MODIFIED="1564454077877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler/Re" />
     <SUITE FILE_PATH="coverage/self_project$urllib_study.coverage" NAME="urllib_study Coverage Results" MODIFIED="1563416899193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying" />
     <SUITE FILE_PATH="coverage/self_project$kuaidaili.coverage" NAME="kuaidaili Coverage Results" MODIFIED="1563968187168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler/requests" />
+    <SUITE FILE_PATH="coverage/self_project$beautifulsoup4.coverage" NAME="beautifulsoup4 Coverage Results" MODIFIED="1564127563692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/bs4" />
     <SUITE FILE_PATH="coverage/self_project$server.coverage" NAME="server Coverage Results" MODIFIED="1563200638973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/python socket" />
     <SUITE FILE_PATH="coverage/self_project$cookiejar.coverage" NAME="cookiejar Coverage Results" MODIFIED="1563540027419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler" />
     <SUITE FILE_PATH="coverage/self_project$xpath_1.coverage" NAME="xpath_1 Coverage Results" MODIFIED="1563968338874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml" />
-    <SUITE FILE_PATH="coverage/self_project$IP.coverage" NAME="快代理免费IP Coverage Results" MODIFIED="1564047004732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml" />
+    <SUITE FILE_PATH="coverage/self_project$ceshiyong.coverage" NAME="ceshiyong Coverage Results" MODIFIED="1564047733763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml" />
+    <SUITE FILE_PATH="coverage/self_project$IP.coverage" NAME="快代理免费IP Coverage Results" MODIFIED="1564047812048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler/xpath-lxml" />
     <SUITE FILE_PATH="coverage/self_project$request2_2.coverage" NAME="request2_2 Coverage Results" MODIFIED="1563763246783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler/requests" />
     <SUITE FILE_PATH="coverage/self_project$client.coverage" NAME="client Coverage Results" MODIFIED="1563200643809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/python socket" />
     <SUITE FILE_PATH="coverage/self_project$save_cookie_and_load.coverage" NAME="save_cookie and load Coverage Results" MODIFIED="1563587370485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-studying/web crawler" />
@@ -635,9 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/urllib/renren.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/python-studying/web crawler/urllib/save_cookie and load.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -713,20 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/xpath_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/快代理html页面.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" column="102" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python-studying/web crawler/urllib/urllib_study3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -748,11 +703,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/mowang.jpg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/mowang.jpg" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -763,15 +714,42 @@
     <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/ip-proxy.html">
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/FreeIP" />
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/FreeIPtest.txt" />
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/ceshiyong.py" />
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/FreeIP.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="652" selection-end-line="652" />
+        <state relative-caret-position="3000">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/FreeIP">
+    <entry file="file://$PROJECT_DIR$/python-studying/python socket/bs4">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/urllib/renren.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/快代理html页面.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="102" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/xpath_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/ip-proxy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9780">
+          <caret line="652" selection-end-line="652" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/图片素材提取.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -783,24 +761,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/FreeIP.txt">
+    <entry file="file://$PROJECT_DIR$/python-studying/python socket/bs4/beautifulsoup4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3000">
-          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        <state relative-caret-position="396">
+          <caret line="661" column="17" selection-start-line="661" selection-start-column="17" selection-end-line="661" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/FreeIPtest.txt">
+    <entry file="file://$PROJECT_DIR$/python-studying/web crawler/Re/Re_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="330">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python-studying/web crawler/xpath-lxml/快代理免费IP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        <state relative-caret-position="225">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
